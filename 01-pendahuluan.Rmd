@@ -1,0 +1,39 @@
+# Bab 1 Pendahuluan {-}
+
+## A. Latar Belakang {-}
+
+Rumah Sakit adalah institusi pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan secara  paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat. Dalam memberikan pelayanan, rumah sakit harus memperhatikan mutu dan keselamatan pasien. Pelayanan kesehatan yang bermutu adalah pelayanan yang memiliki karakter aman, tepat waktu, efisien, efektif, berorientasi pada pasien, adil dan terintegrasi. Pemenuhan mutu pelayanan di rumah sakit dilakukan dengan dua cara yaitu peningkatan mutu secara internal dan peningkatan mutu secara eksternal.
+
+Peningkatan Mutu Internal ( _Internal Continous Quality Improvement_ ) yaitu rumah sakit melakukan upaya peningkatan mutu secara berkala antara lain penetapan, pengukuran, pelaporan  dan  evaluasi  indikator mutu serta pelaporan insiden keselamatan pasien. Peningkatan mutu secara internal ini menjadi hal terpenting bagi rumah sakit untuk menjamin mutu pelayanan. Peningkatan Mutu Eksternal ( _External Continous Quality Improvement_ ) merupakan bagian dari upaya peningkatan mutu pelayanan di rumah sakit secara keseluruhan. Beberapa kegiatan yang termasuk peningkatan mutu eksternal adalah perizinan, sertifikasi, dan akreditasi. Rumah sakit melakukan peningkatan mutu internal dan eksternal secara berkesinambungan ( _continuous quality improvement_ ).
+
+Akreditasi adalah pengakuan terhadap mutu pelayanan rumah sakit setelah dilakukan penilaian bahwa rumah sakit telah memenuhi standar akreditasi yang disetujui oleh Pemerintah. Pada bulan Desember 2021 Kementerian Kesehatan mencatat 3.120 rumah sakit telah teregistrasi. Sebanyak 2.482 atau 78,8% rumah sakit telah terakreditasi  dan  638 rumah sakit atau 21,2% belum terakreditasi.
+
+Upaya percepatan akreditasi rumah sakit mengalami beberapa kendala antara lain adanya isu atau keluhan terkait lembaga penilai akreditasi yang juga melakukan workshop atau bimbingan, penilaian akreditasi dianggap mahal, masih kurangnya peran  pemerintah  daerah dan pemilik rumah sakit dalam pemenuhan syarat akreditasi, akuntabilitas lembaga, dan lain-lain.
+
+Pemerintah mengharapkan pada tahun 2024 seluruh rumah sakit di Indonesia telah terakreditasi sesuai dengan target RPJMN tahun 2020 - 2024. Dalam upaya meningkatkan cakupan akreditasi rumah sakit, Pemerintah mendorong terbentuknya lembaga-lembaga independen penyelenggara akreditasi serta transformasi sistem akreditasi rumah sakit. Sejalan dengan terbentuknya lembaga-lembaga independen penyelenggara akreditasi maka perlu ditetapkan standar akreditasi rumah  sakit  yang akan dipergunakan oleh seluruh lembaga independen penyelenggara akreditasi rumah sakit dalam melaksanakan penilaian akreditasi.
+
+Proses penyusunan standar akreditasi rumah sakit diawali dengan pembentukan tim yang melakukan sandingan dan benchmarking standar akreditasi dengan menggunakan referensi Standar Nasional Akreditasi Rumah Sakit Edisi 1.1 dari Komisi Akreditasi Rumah Sakit, _Joint Commission International Standards for Hospital_ edisi 7, regulasi perumahsakitan serta panduan prinsip-prinsip standar akreditasi edisi 5 yang dikeluarkan oleh _The International Society for Quality in Health Care_ (ISQua). Selanjutnya dilakukan pembahasan dengan melibatkan perwakilan dari lembaga independen penyelenggara akreditasi rumah sakit, organisasi profesi, asosiasi perumahsakitan, rumah sakit dan akademisi. Selanjutnya hasil diskusi tersebut dibahas lebih lanjut oleh panelis penyusunan standar akreditasi rumah sakit dengan mendapat masukan secara tertulis dari lembaga independen penyelenggara akreditasi rumah sakit. Penyusunan standar akreditasi rumah sakit mempertimbangkan penyederhanaan standar akreditasi agar lebih mudah dipahami dan dapat dilaksanakan oleh rumah sakit.
+
+## B. Tujuan {-}
+
+1.	Untuk meningkatkan mutu dan keselamatan pasien di rumah sakit.
+2.	Menjadi acuan bagi lembaga independen penyelenggara akreditasi rumah sakit dan rumah sakit dalam penyelenggaraan akreditasi rumah sakit.
+3.	Menjadi acuan bagi Kementerian Kesehatan, dinas kesehatan daerah provinsi, dan dinas kesehatan daerah kabupaten/kota dalam pembinaan dan evaluasi mutu dan keselamatan pasien  di  rumah sakit.
+
+## C.	Ruang Lingkup {-}
+
+1.	Penyelenggaraan akreditasi rumah sakit yaitu persiapan, pelaksanaan penilaian akreditasi, dan pasca akreditasi.
+2.	Standar akreditasi rumah sakit meliputi gambaran umum,  maksud dan tujuan, serta elemen penilaian pada setiap kelompok standar akreditasi rumah sakit.
+
+## D.	Kelompok Standar Akreditasi Rumah Sakit {-}
+
+Standar Akreditasi Rumah Sakit dikelompokkan menurut fungsi- fungsi penting yang umum dalam organisasi perumahsakitan. Standar dikelompokkan menurut fungsi yang terkait dengan penyediaan pelayanan bagi pasien ( _good clinical governance_ ) dan upaya menciptakan organisasi rumah sakit yang aman, efektif, dan dikelola dengan baik ( _good corporate governance_ ). Standar Akreditasi Rumah Sakit dikelompokkan sebagai berikut:
+
+1.	Kelompok Manajemen Rumah Sakit terdiri atas: Tata Kelola Rumah Sakit (TKRS), Kualifikasi dan Pendidikan Staf (KPS), Manajemen Fasilitas dan Keselamatan (MFK), Peningkatan Mutu dan Keselamatan Pasien (PMKP), Manajemen Rekam Medik dan Informasi Kesehatan (MRMIK), Pencegahan dan Pengendalian Infeksi (PPI), dan Pendidikan dalam Pelayanan Kesehatan (PPK).
+2.	Kelompok Pelayanan Berfokus pada Pasien terdiri atas: Akses dan Kontinuitas Pelayanan (AKP), Hak Pasien dan Keluarga (HPK), Pengkajian Pasien (PP), Pelayanan dan Asuhan Pasien (PAP), Pelayanan Anestesi dan Bedah (PAB), Pelayanan Kefarmasian dan Penggunaan Obat (PKPO), dan Komunikasi dan Edukasi (KE).
+3.	Kelompok Sasaran Keselamatan Pasien (SKP).
+4.	Kelompok Program Nasional (PROGNAS).
+ 
+
+
+

@@ -1,0 +1,20 @@
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: " "
+
+output_dir: "docs"
+
+rmd_files: [
+  "index.rmd",
+  "01-pendahuluan.rmd",
+  "02-penyelenggara.rmd",
+  
+  "03-standar.rmd",
+  "04-standar.rmd",
+  "05-standar.rmd",
+  "06-standar.rmd",
+  "07-standar.rmd",
+  
+  "08-references.rmd"
+]

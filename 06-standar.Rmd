@@ -1,0 +1,250 @@
+# C.	Kelompok Sasaran Keselamatan Pasien {-}
+
+**Gambaran Umum**
+
+Sasaran Keselamatan Pasien wajib diterapkan di rumah sakit untuk mencegah terjadinya insiden keselamatan pasien serta  meningkatkan mutu pelayanan kesehatan sesuai dengan standar WHO Patient Safety (2007) yang digunakan juga oleh pemerintah. Tujuan SKP adalah untuk mendorong rumah sakit melakukan perbaikan-perbaikan yang menunjang tercapainya keselamatan pasien. Sasaran sasaran dalam SKP menyoroti bidang-bidang yang bermasalah dalam pelayanan kesehatan, memberikan bukti dan solusi hasil konsensus yang berdasarkan nasihat para  pakar serta penelitian berbasis bukti.
+
+Di Indonesia secara nasional untuk seluruh Fasilitas pelayanan Kesehatan, diberlakukan Sasaran Keselamatan Pasien Nasional yang terdiri dari:
+
+1.	Sasaran 1 mengidentifikasi pasien dengan benar;
+2.	Sasaran 2 meningkatkan komunikasi yang efektif;
+3.	Sasaran	3 meningkatkan	keamanan	obat-obatan	yang	harus diwaspadai;
+4.	Sasaran 4 memastikan sisi yang benar, prosedur yang benar, pasien yang benar pada pembedahan/tindakan invasif;
+5.	Sasaran 5 mengurangi risiko infeksi akibat perawatan  kesehatan; dan
+6.	Sasaran 6 mengurangi risiko cedera pasien akibat jatuh.
+
+## 1. Mengidentifikasi pasien dengan benar  {-}
+
+#### a.		Standar SKP 1 {-}
+
+Rumah sakit menerapkan proses untuk menjamin ketepatan identifikasi pasien
+
+#### b.		Maksud dan Tujuan SKP 1 {-}
+
+Kesalahan mengidentifikasi pasien dapat terjadi di semua aspek pelayanan baik diagnosis, proses pengobatan serta tindakan. Misalnya saat keadaan pasien masih dibius, mengalami disorientasi atau belum sepenuhnya sadar; adanya kemungkinan pindah tempat tidur, pindah kamar, atau pindah lokasi di dalam rumah sakit; atau apabila pasien memiliki cacat indra atau rentan terhadap situasi berbeda.
+
+Adapun tujuan dari identifikasi pasien secara benar ini adalah:
+
+1.	mengidentifikasi pasien sebagai individu yang akan diberi layanan, tindakan atau pengobatan tertentu secara tepat.
+2.	mencocokkan layanan atau perawatan yang akan diberikan dengan pasien yang akan menerima layanan.
+
+Identifikasi pasien dilakukan setidaknya menggunakan minimal 2 (dua) identitas yaitu nama lengkap dan tanggal lahir/bar code, dan tidak termasuk nomor kamar atau lokasi pasien agar tepat pasien dan tepat pelayanan sesuai dengan regulasi rumah sakit. Pasien diidentifikasi menggunakan minimal dua jenis identitas pada saat:
+
+1.	melakukan tindakan intervensi/terapi (misalnya pemberian obat, pemberian darah atau produk darah, melakukan terapi radiasi);
+2.	melakukan tindakan (misalnya memasang jalur intravena atau hemodialisis);
+3.	sebelum tindakan diagnostik apa pun (misalnya mengambil darah dan spesimen lain untuk pemeriksaan laboratorium penunjang, atau sebelum melakukan kateterisasi jantung ataupun tindakan radiologi diagnostik); dan
+4.	menyajikan makanan pasien.
+
+Rumah sakit memastikan pasien teridentifikasi dengan  tepat pada situasi khusus, seperti pada pasien koma atau pada bayi baru lahir yang tidak segera diberi nama serta identifikasi pasien pada saat terjadi darurat bencana.
+
+Penggunaan dua identitas juga digunakan dalam pelabelan. misalnya, sampel darah dan sampel patologi, nampan makanan pasien, label ASI yang disimpan untuk bayi yang dirawat  di rumah sakit.
+
+#### c.		Elemen Penilaian SKP 1 {-}
+
+1.	Rumah sakit telah menetapkan regulasi terkait Sasaran keselamatan pasien meliputi poin 1 – 6 pada gambaran umum.
+2.	Rumah sakit telah menerapkan proses identifikasi pasien menggunakan minimal 2 (dua) identitas, dapat memenuhi tujuan identifikasi pasien dan sesuai dengan ketentuan rumah sakit.
+3.	Pasien telah diidentifikasi menggunakan minimal dua jenis identitas meliputi poin 1) - 4) dalam maksud dan tujuan.
+4.	Rumah sakit memastikan pasien teridentifikasi dengan tepat pada situasi khusus, dan penggunaan label seperti tercantum dalam maksud dan tujuan.
+
+## 2. Meningkatkan komunikasi yang efektif;  {-}
+
+#### a.	Standar SKP 2 {-}
+
+Rumah sakit menerapkan proses untuk meningkatkan efektivitas komunikasi lisan dan/atau telepon di antara para profesional pemberi asuhan (PPA), proses pelaporan hasil kritis pada pemeriksaan diagnostic termasuk POCT dan proses komunikasi saat serah terima (hand over) .
+
+#### b.	Maksud dan Tujuan SKP 2 {-}
+
+Komunikasi efektif adalah komunikasi yang tepat waktu, akurat, lengkap, jelas, dan dipahami oleh resipien/penerima pesan akan mengurangi potensi terjadinya kesalahan serta meningkatkan keselamatan pasien. Komunikasi dapat dilakukan secara lisan, tertulis dan elektronik.
+
+Komunikasi yang paling banyak memiliki potensi terjadinya kesalahan adalah pemberian instruksi secara lisan atau melalui telpon, pelaporan hasil kritis dan saat serah terima.. Latar belakang suara, gangguan, nama obat yang  mirip  dan  istilah yang tidak umum sering kali menjadi masalah.
+
+Metode, formulir dan alat bantu ditetapkan sesuai dengan jenis komunikasi agar dapat dilakukan secara konsisten dan lengkap.
+
+1.	Metode komunikasi saat menerima instruksi melalui telpon adalah: “menulis/menginput ke komputer - membacakan - konfirmasi kembali” (writedown, read back, confirmation) kepada pemberi instruksi misalnya kepada DPJP. Konfirmasi harus dilakukan saat itu juga melalui telpon untuk menanyakan apakah “yang dibacakan” sudah sesuai dengan instruksi yang diberikan. Sedangkan metode komunikasi saat melaporkan kondisi pasien kepada DPJP dapat menggunakan metode misalnya Situation –background - assessment - recommendation (SBAR).
+2.	Metode komunikasi saat melaporkan nilai kritis pemeriksaan diagnostik melalui telpon juga dapat dengan: “menulis/menginput ke komputer - membacakan - konfirmasi kembali” (writedown, read back). Hasil kritis didefinisikan sebagai varian dari rentang normal yang menunjukkan adanya kondisi patofisiologis yang berisiko tinggi atau mengancam nyawa, yang dianggap gawat atau darurat, dan mungkin memerlukan tindakan medis segera untuk menyelamatkan nyawa atau mencegah kejadian yang tidak diinginkan. Hasil kritis dapat dijumpai pada pemeriksaan pasien rawat jalan maupun rawat inap. Rumah sakit menentukan mekanisme pelaporan hasil kritis di rawat jalan dan rawat inap. Pemeriksaan diagnostik mencakup semua pemeriksaan seperti laboratorium, pencitraan/radiologi, diagnostik jantung juga pada hasil pemeriksaan yang dilakukan di tempat tidur pasien (point- of-care testing (POCT). Pada pasien rawat inap pelaporan hasil kritis dapat dilaporkan melalui perawat yang akan meneruskan laporan kepada DPJP yang meminta pemeriksaan. Rentang waktu pelaporan hasil kritis ditentukan kurang dari 30 menit sejak hasil  di  verifikasi oleh PPA yang berwenang di unit pemeriksaan penunjang diagnostik.
+3.	Metode komunikasi saat serah terima distandardisasi pada jenis serah terima yang sama misalnya serah terima antar ruangan di rawat inap. Untuk jenis serah terima yang berbeda maka dapat menggunakan metode, formulir  dan alat yang berbeda. Misalnya serah terima dari IGD ke ruang rawat inap dapat berbeda dengan serah terima dari kamar operasi ke unit intensif;
+Jenis serah terima (handover) di dalam rumah sakit dapat mencakup:
+
+1.	antara PPA (misalnya, antar dokter, dari dokter ke perawat, antar perawat, dan seterusnya);
+2.	antara unit perawatan yang berbeda di dalam rumah sakit (misalnya saat pasien dipindahkan dari ruang perawatan intensif ke ruang perawatan atau dari instalasi gawat darurat ke ruang operasi); dan
+3.	dari ruang perawatan pasien ke unit layanan diagnostik seperti radiologi atau fisioterapi.
+
+Formulir serah terima antara PPA, tidak perlu dimasukkan ke dalam rekam medis. Namun demikian, rumah sakit harus memastikan bahwa proses serah terima telah dilakukan. misalnya PPA mencatat serah terima telah dilakukan dan kepada siapa tanggung jawab pelayanan diserahterimakan, kemudian dapat dibubuhkan tanda tangan, tanggal dan waktu pencatatan).
+
+#### c.	Elemen Penilaian SKP 2 {-}
+
+1.	Rumah sakit telah menerapkan komunikasi saat menerima instruksi melalui telepon: menulis/menginput ke komputer - membacakan - konfirmasi kembali” (writedown, read back, confirmation dan SBAR saat melaporkan kondisi pasien kepada DPJP serta di dokumentasikan dalam rekam medik.
+2.	Rumah sakit telah menerapkan komunikasi saat pelaporan hasil kritis pemeriksaan penunjang diagnostic melalui telepon: menulis/menginput ke komputer – membacakan – konfirmasi kembali” (writedown, read back, confirmation dan di dokumentasikan dalam rekam medik.
+3.	Rumah sakit telah menerapkan komunikasi saat serah terima sesuai dengan jenis serah terima meliputi poin 1) - 3) dalam maksud dan tujuan.
+
+## 3. Meningkatkan	keamanan	obat-obatan	yang	harus diwaspadai  {-}
+
+#### a.	Standar SKP 3 {-}
+
+Rumah sakit menerapkan proses untuk meningkatkan keamanan penggunaan obat yang memerlukan kewaspadaan tinggi (high alert medication) termasuk obat Look - Alike Sound Alike (LASA).
+
+#### b.	Standar SKP 3.1 {-}
+
+Rumah	sakit	menerapkan	proses	untuk	meningkatkan keamanan penggunaan elektrolit konsentrat
+
+#### c.	Maksud dan Tujuan SKP 3 dan SKP 3.1 {-}
+
+Obat-obatan	yang	perlu	diwaspadai	(high-alert	medications) adalah obat-obatan yang memiliki risiko menyebabkan cedera serius pada pasien jika digunakan dengan tidak tepat.
+
+Obat high alert mencakup:
+1.	Obat risiko tinggi, yaitu obat dengan zat aktif yang dapat menimbulkan kematian atau kecacatan bila terjadi kesalahan (error) dalam penggunaannya (contoh: insulin, heparin atau sitostatika).
+2.	Obat yang terlihat mirip dan kedengarannya mirip (Nama Obat Rupa dan Ucapan Mirip/NORUM, atau  Look  Alike Sound Alike/LASA)
+3.	Elektrolit konsentrat contoh: kalium klorida dengan konsentrasi sama atau lebih dari 1 mEq/ml, natrium klorida dengan konsentrasi lebih dari 0,9% dan magnesium sulfat injeksi dengan konsentrasi sama atau lebih dari 50%
+
+Rumah sakit harus menetapkan dan menerapkan strategi untuk mengurangi risiko dan cedera  akibat  kesalahan  penggunaan obat high alert, antara lain: penataan penyimpanan, pelabelan yang jelas, penerapan double checking, pembatasan akses, penerapan panduan penggunaan obat high alert.
+
+Rumah sakit perlu membuat daftar obat-obatan berisiko tinggi berdasarkan pola penggunaan obat-obatan yang berisiko dari data internalnya sendiri tentang laporan inisiden keselamatan pasien. Daftar ini sebaiknya diperbarui setiap tahun. Daftar ini dapat diperbarui secara sementara jika ada penambahan atau perubahan pada layanan rumah sakit.
+
+Obat dengan nama dan rupa yang mirip (look-alike/sound-alike, LASA) adalah obat yang memiliki tampilan dan nama  yang serupa dengan obat lain, baik saat ditulis maupun diucapkan secara lisan. Obat dengan kemasan serupa (look-alike packaging) adalah obat dengan wadah atau kemasan yang  mirip  dengan obat lainnya. 
+
+Obat-obatan yang berisiko terjadinya kesalahan terkait LASA, atau obat dengan kemasan produk yang serupa, dapat menyebabkan terjadinya kesalahan pengobatan yang berpotensi cedera. Terdapat banyak nama obat yang terdengar serupa dengan nama obat lainnya, sebagai contoh, dopamin dan dobutamin.
+
+Hal lain  yang  sering  dimasukkan  dalam  isu  keamanan  obat adalah kesalahan dalam pemberian elektrolit konsentrat yang tidak disengaja (misalnya, kalium/potasium klorida [sama dengan 1 mEq/ml atau yang lebih  pekat),  kalium/potasium fosfat [(sama dengan atau lebih besar dari 3 mmol/ml)], natrium/sodium klorida [lebih pekat dari 0.9%], dan magnesium sulfat [sama dengan 50% atau lebih pekat]. Kesalahan ini dapat terjadi apabila staf tidak mendapatkan orientasi dengan baik di unit asuhan pasien, bila perawat kontrak tidak diorientasikan sebagaimana mestinya terhadap unit asuhan pasien, atau pada keadaan gawat darurat/emergensi. Cara yang paling  efektif untuk mengurangi atau mengeliminasi kejadian tersebut adalah dengan menerapkan proses pengelolaan obat-obat yang perlu diwaspadai termasuk penyimpanan elektrolit konsentrat di unit farmasi di rumah sakit.
+
+Penyimpanan elektrolit konsentrat di luar Instalasi Farmasi diperbolehkan hanya dalam situasi klinis yang  berisiko  dan harus memenuhi persyaratan yaitu staf yang dapat  mengakes dan memberikan elektrolit konsentrat adalah staf yang kompeten dan terlatih, disimpan terpisah dari obat lain, diberikan pelabelan secara jelas, lengkap dengan peringatan kewaspadaan.
+
+#### d.	Elemen Penilaian SKP 3 {-}
+
+1.	Rumah sakit menetapkan daftar obat kewaspadaan tinggi
+2.	(High Alert) termasuk obat Look -Alike Sound Alike (LASA).
+3.	Rumah sakit menerapkan pengelolaan obat kewaspadaan tinggi (High Alert) termasuk obat Look -Alike Sound Alike (LASA) secara seragam di seluruh area rumah sakit untuk mengurangi risiko dan cedera
+4.	Rumah sakit mengevaluasi dan memperbaharui daftar obat High-Alert dan obat Look -Alike Sound Alike (LASA) yang sekurang-kurangnya 1 (satu) tahun sekali berdasarkan laporan insiden lokal, nasional dan internasional.
+
+#### e.	Elemen Penilaian SKP 3.1 {-}
+
+1.	Rumah sakit menerapkan proses penyimpanan elektrolit konsentrat tertentu hanya di Instalasi Farmasi, kecuali di unit pelayanan dengan pertimbangan klinis untuk mengurangi risiko dan cedera pada penggunaan elektrolit konsentrat.
+2.	Penyimpanan elektrolit konsentrat di luar Instalasi Farmasi diperbolehkan hanya dalam untuk situasi yang ditentukan sesuai dalam maksud dan tujuan.
+3.	Rumah sakit menetapkan dan menerapkan protokol koreksi hipokalemia, hiponatremia, hipofosfatemia.
+
+## 4. Memastikan sisi yang benar, prosedur yang benar, pasien yang benar pada pembedahan/tindakan invasif  {-}
+
+#### a.	Standar SKP 4 {-}
+
+Rumah sakit menetapkan proses untuk melaksanakan verifikasi pra opearsi, penandaan lokasi operasi dan proses time-out yang dilaksanakan sesaat sebelum tindakan pembedahan/invasif dimulai serta proses sign-out yang dilakukan setelah tindakan selesai.
+
+#### b.	Maksud dan Tujuan SKP 4 {-}
+
+Salah-sisi, salah-prosedur, salah-pasien operasi, adalah kejadian yang mengkhawatirkan dan dapat terjadi di rumah sakit. Kesalahan ini terjadi akibat adanya komunikasi yang  tidak efektif atau tidak adekuat antara anggota tim bedah, kurangnya keterlibatan pasien di dalam penandaan lokasi (site marking), serta tidak adanya prosedur untuk memverifikasi sisi operasi. Rumah sakit memerlukan upaya kolaboratif untuk mengembangkan proses dalam mengeliminasi masalah ini.
+
+Tindakan operasi dan invasif meliputi semua tindakan yang melibatkan insisi atau pungsi, termasuk, tetapi tidak terbatas pada, operasi terbuka, aspirasi perkutan, injeksi obat tertentu, biopsi, tindakan intervensi atau diagnostik vaskuler dan kardiak perkutan, laparoskopi, dan endoskopi. Rumah sakit perlu mengidentifikasi semua area di rumah sakit mana operasi dan tindakan invasif dilakukan Protokol umum (universal protocol) untuk pencegahan salah sisi, salah prosedur dan salah pasien pembedahan meliputi:
+
+1.	Proses verifikasi sebelum operasi.
+2.	Penandaan sisi operasi.
+3.	Time-out dilakukan sesaat sebelum memulai tindakan.
+ 
+#### c.	Proses Verifikasi Praoperasi {-}
+
+Verifikasi praoperasi merupakan proses pengumpulan informasi dan konfirmasi secara terus-menerus. Tujuan dari proses verifikasi praoperasi adalah:
+
+1.	melakukan verifikasi terhadap sisi yang benar, prosedur yang benar dan pasien yang benar;
+2.	memastikan bahwa semua dokumen, foto hasil  radiologi atau pencitraan, dan pemeriksaan yang terkait operasi telah tersedia, sudah diberi label dan di siapkan;
+3.	melakukan verifikasi bahwa produk darah, peralatan medis khusus dan/atau implan yang diperlukan sudah tersedia.
+
+Di dalam proses verifikasi praoperasi terdapat beberapa elemen yang dapat dilengkapi sebelum pasien tiba di area praoperasi. seperti memastikan bahwa dokumen, foto hasil radiologi, dan hasil pemeriksaan sudah tersedia, di beri label  dan  sesuai dengan penanda identitas pasien.
+
+Menunggu sampai pada saat proses time-out untuk melengkapi proses verifikasi praoperasi dapat menyebabkan  penundaan yang tidak perlu. Beberapa proses verifikasi praoperasi dapat dilakukan lebih dari sekali dan tidak hanya di satu tempat saja. Misalnya persetujuan tindakan bedah dapat diambil di ruang periksa dokter spesialis bedah dan verifikasi kelengkapannya dapat dilakukan di area tunggu praoperasi.
+
+#### d.	Penandaan Lokasi {-}
+
+Penandaan sisi operasi dilakukan dengan melibatkan  pasien serta dengan tanda yang tidak memiliki arti ganda serta segera dapat dikenali. Tanda tersebut harus digunakan secara konsisten di dalam rumah sakit; dan harus dibuat oleh PPA yang akan melakukan tindakan; harus dibuat saat pasien terjaga dan sadar jika memungkinkan, dan harus terlihat sampai pasien disiapkan. Penandaan sisi operasi hanya ditandai pada semua kasus yang memiliki dua sisi kiri dan kanan (lateralisasi), struktur multipel (jari tangan, jari kaki, lesi), atau multiple level (tulang belakang).
+
+Penandaan lokasi operasi harus melibatkan pasien dan dilakukan dengan tanda yang langsung dapat dikenali dan tidak bermakna ganda. Tanda “X” tidak digunakan sebagai penanda karena dapat diartikan sebagai “bukan di sini” atau “salah sisi” serta dapat berpotensi menyebabkan kesalahan dalam penandaan lokasi operasi. Tanda yang  dibuat  harus  seragam dan konsisten digunakan di rumah sakit. Dalam semua kasus yang melibatkan lateralitas, struktur ganda  (jari  tangan,  jari kaki, lesi), atau tingkatan berlapis (tulang belakang), lokasi operasi harus ditandai.
+
+Penandaan lokasi tindakan operasi/invasif dilakukan oleh PPA yang akan melakukan tindakan tersebut. PPA tersebut akan melakukan seluruh prosedur operasi/invasif dan tetap berada dengan pasien selama tindakan berlangsung. Pada tindakan operasi, DPJP bedah pada umumnya yang akan melakukan operasi dan kemudian melakukan penandaan lokasi.. Untuk tindakan invasif non-operasi, penandaan dapat dilakukan oleh dokter yang akan melakukan tindakan, dan dapat dilakukan di area di luar area kamar operasi. Terdapat situasi  di  mana peserta didik (trainee) dapat melakukan penandaan lokasi, misalnya ketika peserta didik akan melakukan keseluruhan tindakan, tidak memerlukan supervisi atau memerlukan supervisi minimal dari operator/dokter penanggung jawab. 
+
+Pada situasi tersebut, peserta didik dapat menandai lokasi operasi. Ketika seorang peserta didik menjadi asisten dari operator/dokter penanggung jawab, hanya operator/dokter penanggung jawab yang dapat melakukan penandaan lokasi. Penandaan lokasi dapat terjadi kapan saja sebelum tindakan operasi/invasif selama pasien terlibat secara aktif dalam proses penandaan lokasi jika memungkinkan dan tanda tersebut harus tetap dapat terlihat walaupun setelah pasien dipersiapkan dan telah ditutup kain. Contoh keadaan di mana partisipasi pasien tidak memungkinkan meliputi : kasus di mana pasien tidak kompeten untuk membuat keputusan perawatan, pasien anak, dan pasien yang memerlukan operasi darurat.
+
+#### e.	Time-Out {-}
+
+Time-out dilakukan sesaat sebelum tindakan dimulai dan dihadiri semua anggota tim yang akan melaksanakan tindakan operasi. Selama time-out, tim menyetujui komponen sebagai berikut:
+ 
+1.	Benar identitas pasien.
+2.	Benar prosedur yang akan dilakukan.
+3.	Benar sisi operasi/tindakan invasif.
+
+Time-out dilakukan di tempat di mana tindakan akan dilakukan dan melibatkan secara aktif seluruh tim bedah. Pasien tidak berpartisipasi dalam time-out. Keseluruhan proses time-out didokumentasikan dan meliputi tanggal serta jam time-out selesai. Rumah sakit menentukan bagaimana proses time-out didokumentasikan.
+
+#### f.	Sign-Out {-}
+
+Sign out yang dilakukan di area tempat tindakan berlangsung sebelum pasien meninggalkan ruangan. Pada umumnya, perawat sebagai anggota tim melakukan konfirmasi secara lisan untuk komponen sign-out sebagai berikut:
+
+1.	Nama tindakan operasi/invasif yang dicatat/ditulis.
+2.	Kelengkapan perhitungan instrumen, kasa dan jarum (bila ada).
+3.	Pelabelan spesimen (ketika terdapat spesimen selama proses sign-out, label dibacakan dengan jelas, meliputi nama pasien, tanggal lahir).
+4.	Masalah peralatan yang perlu ditangani (bila ada).
+
+Rumah sakit dapat menggunakan Daftar tilik keselamatan operasi (Surgical Safety Checklist dari WHO terkini)
+
+#### g.	Elemen Penilaian SKP 4 {-}
+
+1.	Rumah sakit telah melaksanakan proses verifikasi pra operasi dengan daftar tilik untuk memastikan benar pasien, benar tindakan dan benar sisi.
+2.	Rumah sakit telah menetapkan  dan  menerapkan  tanda yang seragam, mudah dikenali dan tidak bermakna ganda untuk mengidentifikasi sisi operasi atau tindakan invasif.
+3.	Rumah sakit telah menerapkan penandaan sisi operasi atau tindakan invasif (site marking) dilakukan oleh dokter operator/dokter asisten yang melakukan operasi atau tindakan invasif dengan melibatkan pasien bila memungkinkan.
+4.	Rumah    sakit     telah     menerapkan     proses     Time-Out menggunakan “surgical check list” (Surgical Safety Checklist dari WHO terkini pada tindakan operasi termasuk tindakan medis invasif.
+
+## 5. Mengurangi risiko infeksi akibat perawatan  kesehatan; {-}
+
+#### a.	Standar SKP 5 {-}
+
+Rumah sakit  menerapkan  kebersihan  tangan  (hand  hygiene) untuk menurunkan risiko infeksi terkait layanan kesehatan.
+
+#### b.	Maksud dan Tujuan SKP 5 {-}
+
+Pencegahan dan pengendalian infeksi merupakan tantangan praktisi dalam tatanan pelayanan kesehatan, dan peningkatan biaya untuk mengatasi infeksi yang berhubungan dengan pelayanan kesehatan merupakan hal yang sangat membebani pasien serta profesional pemberi asuhan (PPA) pada pelayanan kesehatan. 
+
+Infeksi umumnya dijumpai dalam semua bentuk pelayanan kesehatan termasuk infeksi saluran kemih-terkait kateter, infeksi aliran darah (blood stream infections) dan pneumonia (sering kali dihubungkan dengan ventilasi mekanis). Kegiatan utama dari upaya eliminasi infeksi ini maupun infeksi lainnya adalah dengan melakukan tindakan cuci tangan (hand hygiene) yang tepat. 
+
+Pedoman hand hygiene yang berlaku secara internasional dapat diperoleh di situs web WHO. Rumah sakit harus memiliki proses kolaboratif untuk mengembangkan kebijakan dan/atau prosedur yang menyesuaikan atau mengadopsi pedoman hand hygiene yang diterima secara luas untuk implementasinya di rumah sakit.
+
+#### c.	Elemen Penilaian SKP 5 {-}
+
+1.	Rumah sakit telah menerapkan kebersihan tangan (hand hygiene) yang mengacu pada standar WHO terkini.
+2.	Terdapat proses evaluasi terhadap pelaksanaan program kebersihan tangan di rumah sakit serta upaya perbaikan yang dilakukan untuk meningkatkan pelaksanaan program.
+
+## 6. Mengurangi risiko cedera pasien akibat jatuh {-}
+
+#### a.	Standar SKP 6 {-}
+
+Rumah sakit menerapkan proses untuk mengurangi risiko cedera pasien akibat jatuh di rawat jalan.
+
+#### b.	Standar SKP 6.1 {-}
+
+Rumah sakit menerapkan proses untuk  mengurangi  risiko cedera pasien akibat jatuh di rawat inap.
+
+#### c.	Maksud dan Tujuan SKP 6 dan 6.1 {-}
+
+Risiko jatuh pada pasien rawat jalan berhubungan dengan kondisi pasien, situasi, dan/atau lokasi di rumah sakit. Di unit rawat jalan, dilakukan skrining risiko jatuh pada pasien dengan kondisi, diagnosis, situasi, dan/atau lokasi yang menyebabkan risiko jatuh. Jika hasil skrining  pasien  berisiko  jatuh,  maka harus dilakukan intervensi untuk mengurangi risiko jatuh pasien tersebut. Skrining risiko jatuh di rawat jalan meliputi:
+
+1.	kondisi pasien misalnya pasien geriatri, dizziness, vertigo, gangguan keseimbangan, gangguan penglihatan, penggunaan obat, sedasi, status kesadaran dan atau kejiwaan, konsumsi alkohol.
+2.	diagnosis, misalnya pasien dengan diagnosis penyakit Parkinson.
+3.	situasi misalnya pasien yang mendapatkan sedasi atau pasien dengan riwayat tirah baring/perawatan yang lama yang akan dipindahkan untuk pemeriksaan  penunjang dari ambulans, perubahan posisi akan meningkatkan risiko jatuh.
+4.	lokasi misalnya area-area yang berisiko  pasien  jatuh, yaitu tangga, area yang penerangannya kurang atau mempunyai unit pelayanan dengan peralatan parallel bars, freestanding staircases seperti unit rehabilitasi medis. Ketika suatu lokasi tertentu diidentifikasi sebagai area risiko tinggi yang lebih rumah sakit dapat menentukan bahwa semua pasien yang mengunjungi lokasi tersebut akan dianggap berisiko jatuh dan menerapkan langkah-langkah untuk mengurangi risiko jatuh yang berlaku untuk semua pasien.
+
+Skrining umumnya berupa evaluasi sederhana meliputi pertanyaan dengan jawaban sederhana: ya/tidak, atau metode lain meliputi pemberian nilai/skor untuk setiap respons pasien. Rumah sakit dapat menentukan bagaimana proses skrining dilakukan. Misalnya skrining dapat dilakukan oleh petugas registrasi, atau pasien dapat melakukan skrining secara mandiri, seperti di anjungan mandiri untuk skrining di unit rawat jalan.
+Contoh pertanyaan skrining sederhana dapat meliputi:
+
+1.	Apakah Anda merasa tidak stabil ketika berdiri atau berjalan?;
+2.	Apakah Anda khawatir akan jatuh?;
+3.	Apakah Anda pernah jatuh dalam setahun terakhir?
+
+Rumah sakit dapat menentukan pasien rawat jalan mana yang akan dilakukan skrining risiko jatuh. Misalnya, semua pasien di unit rehabilitasi medis, semua pasien dalam perawatan lama/tirah baring lama datang dengan ambulans untuk pemeriksaan rawat jalan, pasien yang dijadwalkan untuk operasi rawat jalan dengan tindakan anestesi atau sedasi, pasien dengan gangguan keseimbangan, pasien dengan gangguan penglihatan, pasien anak di bawah usia 2 (dua) tahun, dan seterusnya.
+
+Untuk semua pasien rawat inap baik  dewasa  maupun  anak harus dilakukan pengkajian risiko jatuh menggunakan metode pengkajian yang baku sesuai ketentuan rumah sakit. Kriteria risiko jatuh dan intervensi yang dilakukan harus didokumentasikan dalam rekam medis pasien. 
+
+Pasien yang sebelumnya risiko rendah jatuh dapat meningkat risikonya secara mendadak menjadi risiko tinggi jatuh. Perubahan risiko ini dapat diakibatkan, namun tidak terbatas pada tindakan pembedahan dan/atau anestesi, perubahan mendadak pada kondisi pasien, dan penyesuaian obat-obatan yang diberikan sehingga pasien memerlukan pengkajian ulang jatuh selama dirawat inap dan paska pembedahan.
+
+#### d.	Elemen Penilaian SKP 6 {-}
+
+1.	Rumah sakit telah melaksanakan skrining  pasien  rawat jalan pada kondisi, diagnosis, situasi atau lokasi yang dapat menyebabkan pasien berisiko jatuh, dengan menggunakan alat bantu/metode skrining yang ditetapkan rumah sakit
+2.	Tindakan dan/atau intervensi dilakukan untuk mengurangi risiko jatuh pada pasien jika hasil skrining menunjukkan adanya risiko jatuh dan hasil skrining serta intervensi didokumentasikan.
+ 
+#### e.	Elemen Penilaian SKP 6.1 {-}
+
+1.	Rumah sakit telah melakukan pengkajian risiko jatuh untuk semua pasien rawat inap baik dewasa maupun anak menggunakan metode pengkajian yang baku sesuai dengan ketentuan rumah sakit.
+2.	Rumah sakit telah melaksanakan pengkajian ulang risiko jatuh pada pasien rawat inap karena adanya perubahan kondisi, atau memang sudah mempunyai risiko jatuh dari hasil pengkajian.
+3.	Tindakan dan/atau intervensi untuk mengurangi risiko jatuh pada pasien rawat inap telah dilakukan dan didokumentasikan.
